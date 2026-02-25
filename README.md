@@ -6,7 +6,7 @@ SPDX-License-Identifier: GPL-2.0-or-later
 
 # Modelling Data for PyPSA-SPICE Central Asia Training
 
-🎯 Weclome to the data repository to manage input and output data from PyPSA-SPCIE Central Asia model for the training workshop (Kazakhstan (KZ), Kyrgyzstan (KG), and Uzbekistan (UZ)).
+🎯 Weclome to the data repository to manage input and output data from PyPSA-SPICE Central Asia model for the training workshop (Kazakhstan (KZ), Kyrgyzstan (KG), and Uzbekistan (UZ)).
 
 ## 🏗️ Installation
 
