@@ -14,8 +14,8 @@ logging:
 
 #####Init settings#####
 path_configs:
-  data_folder_name: mod-data-CentralAsia-ltes
-  project_name: LTES_CentralAsia
+  data_folder_name: training-data-central-asia
+  project_name: centralasia
   input_scenario_name: ref
   output_scenario_name: ref
 
