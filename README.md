@@ -1,7 +1,7 @@
 <!--
 -*- coding: utf-8 -*-
 SPDX-FileCopyrightText: 2026 PyPSA-SPICE-Central-Asia-Training Developers
-SPDX-License-Identifier: GPL-2.0-or-later
+SPDX-License-Identifier: MIT
 -->
 
 # Modelling Data for PyPSA-SPICE Central Asia Training
